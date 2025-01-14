@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishu Raj</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **React Js &**
+- 🌱 I’m currently learning **React Js & Competitive programming**
 
 - 📝 I regularly write articles on [https://codeforces.com/blog/Rishav_raj_](https://codeforces.com/blog/Rishav_raj_)
 
