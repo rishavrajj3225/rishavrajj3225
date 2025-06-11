@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Js & Django<br>👯 I’m looking to collaborate on React Js<br>🌱 I’m currently learning React Js<br>📫 How to reach me rishuraj322513@gmail.com<br>📝 I regularly write articles on https://codeforces.com/blog/Rishav_raj_<br>⚡ Fun fact I think I'm Sad
-
+🔭 I’m currently working on React Js & Django<br>👯 I’m looking to collaborate on React Js<br>🌱 I’m currently learning React Js<br>📫 How to reach me rishuraj322513@gmail.com<br>📝 I regularly write articles on ( https://codeforces.com/blog/Rishav_raj_ )<br>⚡ Fun fact I think I'm late
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rishav_r_a_j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishu-raj-22888b223) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishuraj322513@gmail.com) 
