@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+cool+stuff;One+commit+at+a+time" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on React Js & Django<br>👯 I’m looking to collaborate on React Js<br>🌱 I’m currently learning React Js<br>📫 How to reach me rishuraj322513@gmail.com<br>📝 I regularly write articles on ( https://codeforces.com/blog/Rishav_raj_ )<br>⚡ Fun fact I think I'm late
 
