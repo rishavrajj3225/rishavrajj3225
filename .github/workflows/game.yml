@@ -1,0 +1,24 @@
+name: Update Game SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update score
+        run: |
+          SCORE=$(git rev-list --count HEAD)
+          sed -i "s/SCORE:.*/SCORE: $SCORE<\/text>/" game.svg
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am "Update game score" || echo "No changes"
+          git push
