@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF309600&center=true&width=435&lines=Hello++%F0%9F%91%8B;I'm+a+Software+Developer+particular+foucsede+in+backend+technologi;Also+a+competitive+programming+enthusiast." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF309600&width=435&lines=Hello++%F0%9F%91%8B;I'm+a+Software+Developer;Competitive+programming+enthusiast." alt="Typing SVG" /></a>
 
 # 💫 About Me:
 🔭 I’m currently working on React Js & Django<br>👯 I’m looking to collaborate on React Js<br>🌱 I’m currently learning React Js<br>📫 How to reach me rishuraj322513@gmail.com<br>📝 I regularly write articles on ( https://codeforces.com/blog/Rishav_raj_ )<br>⚡ Fun fact I think I'm late
