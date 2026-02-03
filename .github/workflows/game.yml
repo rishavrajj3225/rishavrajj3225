@@ -8,13 +8,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Update score
         run: |
           SCORE=$(git rev-list --count HEAD)
-          sed -i "s/SCORE:.*/SCORE: $SCORE<\/text>/" game.svg
+          sed -i "s/SCORE: [0-9]\+/SCORE: $SCORE/" game.svg
 
       - name: Commit changes
         run: |
