@@ -5,7 +5,7 @@
         text-anchor="middle"
         dominant-baseline="middle"
         font-size="28"
-        fill="#00ff99">SCORE: 25
+        fill="#00ff99">SCORE: 26
     <animate attributeName="opacity"
              values="0.7;1;0.7"
              dur="1.6s"
