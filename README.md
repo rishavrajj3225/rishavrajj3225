@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF309600&width=435&lines=Hello++%F0%9F%91%8B;I'm+a+Software+Developer;Competitive+programming+enthusiast." alt="Typing SVG" /></a>
 
 # 💫 About Me:
-🔭 Building scalable backend systems and exploring system design  <br>👯 Open to collaborations on distributed systems and backend engineering<br>🌱 Learning system design, scalability, and real-world architecture patterns<br>📫 How to reach me (mailto:rishuraj322513@gmail.com) <br>📝 Writing about problem solving & tech : [codeforces] (https://codeforces.com/blog/Rishav_raj_)<br>⚡ Fun fact: Started late, but catching up fast 
+🔭 Building scalable backend systems and exploring system design  <br>👯 Open to collaborations on distributed systems and backend engineering<br>🌱 Learning system design, scalability, and real-world architecture patterns<br>📫 How to reach me rishuraj322513@gmail.com <br>📝 Writing about problem solving & tech : [codeforces] (https://codeforces.com/blog/Rishav_raj_)<br>⚡ Fun fact: Started late, but catching up fast 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rishav_r_a_j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishu-raj-22888b223) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishuraj322513@gmail.com) 
